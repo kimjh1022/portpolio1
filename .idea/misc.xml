@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/drawable/box_01.xml" value="0.23" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.23" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.23" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/drawable/ic_baseline_edit_calendar_24.xml" value="0.23" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.23" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/drawable/vp_indicator.xml" value="0.23" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/layout/activity_license.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/layout/activity_license_insert.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/layout/activity_license_update.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/layout/activity_main_viewpager_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/82104/Desktop/kjh_portpolio1/app/src/main/res/layout/activity_navigation_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
